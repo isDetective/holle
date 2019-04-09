@@ -1,0 +1,3 @@
+﻿ .trans_box{width: 500px;height:400px;  overflow:hidden; margin-left:18%; margin-top:20px; float:left;}
+.trans_image_box { width: 2000px; height: 400px;  transition: all 1s ease-in-out;}
+ .trans_image { width: 500px; height:400px; float: left;}

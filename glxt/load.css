@@ -1,0 +1,20 @@
+﻿body 
+{
+    margin:0px;
+    padding:0px;
+}
+.box
+{
+    width:200px;
+    height:100px;
+    margin: 20px auto;
+    }
+.box .a
+{
+    margin-top:10px;
+    width:160px;
+    }
+.box .b
+{
+    margin-top:10px;
+    }
